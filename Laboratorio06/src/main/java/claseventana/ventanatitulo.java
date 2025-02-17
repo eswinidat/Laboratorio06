@@ -20,8 +20,7 @@ public class ventanatitulo extends ventana {
         
     }
     public void desplazar(int dx, int dy) {
-    x += dx;
-    y += dy;
+
     
     
     }
